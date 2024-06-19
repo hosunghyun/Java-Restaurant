@@ -1,1 +1,1 @@
-# Java-Restaurant
+# 자바프로그래밍 레스토랑
