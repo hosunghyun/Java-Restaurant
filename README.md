@@ -7,3 +7,10 @@
 
 참여자
 - 개인 프로젝트(100%)
+
+## 사용 기술 및 개발환경
+- OS : Windows 10
+- Language : JAVA
+- Tool : IntelliJ IDEA
+
+## 내용
